@@ -1,0 +1,13 @@
+{
+  "verbose": false,
+  "ignore": [
+    ".git",
+    ".idea",
+    "./vendor"
+  ],
+  "execMap": {
+    "php": "php"
+  },
+  "restartable": "r",
+  "ext": "php"
+}
